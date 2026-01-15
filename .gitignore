@@ -1,0 +1,27 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Mac
+.DS_Store
+
+# Environment
+.env
+.venv/
+venv/
+
+# Data files (large / private)
+*.csv
+*.pkl
+*.parquet
+
+# Logs
+*.log
+
+# IDE
+.vscode/
+.idea/
+
